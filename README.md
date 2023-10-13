@@ -16,7 +16,7 @@ To not make it excessivly long description i will put main features here:
 - Here and there random sleep used to make it even less predictable. I used microseconds, so it wont be noticable unless you will try to generate some password with 1000+ length.
 - Default parameters are: length - 15, numbers to put in password - 3, special symbols to put -3.
 - Default parameters could be overriden by using switches when executing script or just simply by edititng script yourself.
-- !!! By default script do not use symbols "!", "@" and "$" for generation. I decided that those are to common.. you can override this behavior by adding switch "-nor".
+- !!! By default script do not use symbols "!", "@" and "$" for generation. I decided that those are too common.. you can override this behavior by adding switch "-nor".
 
 Command line options:  
 
