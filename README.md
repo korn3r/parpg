@@ -7,7 +7,7 @@ Longer version:
 In theory, having some insight on environment in which random-generating software was executed, one can predict (or reverse-engineer if you would like) what was generated with that generation.
 
 As a little excercise of getting myself familiar with Python i wrote this script.
-Script generates RSA, trims it a bit and uses given text as a dictionary for picking random letters for passwword.
+Script generates RSA, trims it a bit and uses given text as a dictionary for picking random letters for password.
 
 To not make it excessivly long description i will put main features here:
 
