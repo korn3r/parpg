@@ -31,5 +31,7 @@ Command line options:
   -nor        Switch to include symbols "!","@","$" in special symbol dictionary (by default they are not used). OPTIONAL
 
 
-  Tested only with Python3, so probably doesnt work with python2 (im to lazy to test)
+  Tested only with Python3, so probably doesnt work with python2 (im to lazy to test)  
+
+  PS: i hope i chose license right.... anyway anyone can do with this little piece of code whatever he wishes, apart from saying that you wrote it yourself. there is a chance you might go to hell if you do so...
   
